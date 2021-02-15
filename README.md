@@ -3,7 +3,7 @@ SEH GROUP ASSIGNMENT
 
 Group Members Involved :
 
-Martha Rabanus
+Martha Rabanus,
 Justine N. Nakale,
 Vilho Nguno,
 Shania Nkusi,
