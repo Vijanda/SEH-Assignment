@@ -4,11 +4,11 @@ SEH GROUP ASSIGNMENT
 Group Members Involved :
 
 Martha Rabanus
-Justine N. Nakale
-Vilho Nguno 
-Shania Nkusi  
-Vijanda Veripi Herunga   
-Vesta Ngomberume  
+Justine N. Nakale,
+Vilho Nguno,
+Shania Nkusi,
+Vijanda Veripi Herunga,
+Vesta Ngomberume,
 
 Project Summary:
 
